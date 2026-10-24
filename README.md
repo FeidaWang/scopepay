@@ -4,7 +4,7 @@
 
 ScopePay helps freelancers turn a client's new request into an evidence-backed scope assessment, a reviewed change quote, and a PayPal sandbox invoice.
 
-![ScopePay's example workspace, showing project reference value, change requests and clearly labelled simulated payments](docs/screenshots/overview-20261024.jpg)
+![ScopePay's example workspace, showing project reference value, change requests and clearly labelled simulated payments](docs/screenshots/overview-20261024.svg)
 
 *Example workspace captured on 24 October 2026. Sample analysis and simulated payments are labelled in the interface; this screenshot does not demonstrate a connected AI model or a PayPal transaction.*
 
